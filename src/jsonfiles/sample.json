@@ -1,0 +1,16 @@
+{
+  "firstName": "Mosh",
+  "lastName": "R",
+  "address": [
+    {
+      "street": "a",
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    {
+      "street": "b",
+      "city": "Austin",
+      "state": "TX"
+    }
+  ]
+}
